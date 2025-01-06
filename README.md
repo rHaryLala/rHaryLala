@@ -54,7 +54,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
@@ -94,24 +93,6 @@
 
 </details>
 
-<!-- Custom CSS for GitHub (where supported) -->
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    justify-content: center
-  }
-  img {
-    max-width: 100%
-  }
-  .image {
-    flex-basis: 40%
-  }
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-  }
-</style>
 
 <div class="container">
   <div class="image">
