@@ -84,7 +84,7 @@
 ### :trophy: My Trophies :
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rHarylala&theme=onedark" alt="Trophies"/>
 </div>
 
 ---
