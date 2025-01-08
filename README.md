@@ -95,7 +95,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/rHarylala/QuizApp/pull/1) in QuizApp(https://github.com/rHarylala/Todolist)
 2. 💪 Opened PR [#2](https://github.com/rHarylala/Todolist/pull/2) in Todolist(https://github.com/rHarylala/Todolist)
-3. ❗️ Closed issue [#3](https://github.com/rHarylala/Todolist/issues/3) in Todolist(https://github.com/rHarylala/Todolist)
+3. ❗️ Closed issue [#3](https://github.com/rHarylala/SA_voting/issues/3) in SA_voting(https://github.com/rHarylala/SA_voting)
 <!--END_SECTION:activity-->
 
 </details>
